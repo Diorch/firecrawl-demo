@@ -1,1 +1,1 @@
-> pip install firecrawl-py
+pip install firecrawl-py
