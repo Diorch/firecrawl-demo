@@ -3,7 +3,7 @@ from firecrawl import FirecrawlApp
 from pydantic import BaseModel, Field
 
 # Initialize the FirecrawlApp with your API key
-app = FirecrawlApp(api_key='fc-23a9e9b2c8c9496d975ad28409c7cd88')
+app = FirecrawlApp(api_key='')
 
 class ExtractSchema(BaseModel):
     company_mission: str
